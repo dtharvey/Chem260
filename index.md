@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chem 260
 
 You can use the [editor on GitHub](https://github.com/dtharvey/Chem260/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
